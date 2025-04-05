@@ -24,4 +24,4 @@ Q: What's this about fighters?
 A: Midline fighters have new skins too! The Thunder and Gladius have variants for the player to use. 
 
 Q: Stations too?
-A: Yes, the player can construct a new Midline station to featuring the same color of all new ship and fighter sprites. There are no added restrictions or required blueprints. 
+A: Yes, the player can construct a new Midline station featuring the same color of all new ship and fighter sprites. There are no added restrictions or required blueprints. 
