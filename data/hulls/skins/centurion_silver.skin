@@ -1,0 +1,16 @@
+{
+	"baseHullId":"centurion",
+	"skinHullId":"centurion_silver",
+	"hullName":"Centurion (S)",
+	"descriptionId":"centurion",
+	"descriptionPrefix":"This ship was produced with a pristine exterior, unpainted and unmarked.",
+	"tags":["midline_bp","independent"],
+	"spriteName":"/graphics/ships/centurion/silvercenturion.png",
+	"coversColor":[250,250,250,250],
+	"removeWeaponSlots":[], 		# ids
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"builtInWeapons":{
+    },    
+}

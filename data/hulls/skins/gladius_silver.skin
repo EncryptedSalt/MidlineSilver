@@ -1,0 +1,13 @@
+{
+	"baseHullId":"gladius",
+	"skinHullId":"gladius_silver",
+	"hullName":"Gladius (S)",
+	"descriptionId":"gladius_silver",
+	"spriteName":"graphics/ships/fighters/silvergladius.png",
+	"removeWeaponSlots":[], 		# ids
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"builtInWeapons":{
+    },    
+}

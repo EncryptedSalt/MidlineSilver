@@ -1,0 +1,16 @@
+{
+	"baseHullId":"falcon",
+	"skinHullId":"falcon_silver",
+	"hullName":"Falcon (S)",
+	"descriptionId":"falcon",
+	"descriptionPrefix":"This ship was produced with a pristine exterior, unpainted and unmarked.",
+	"tags":["midline_bp","independent"],
+	"spriteName":"/graphics/ships/falcon/silverfalcon.png",
+	"coversColor":[250,250,250,250],
+	"removeWeaponSlots":[], 		# ids
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"builtInWeapons":{
+    },    
+}
