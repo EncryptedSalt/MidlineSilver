@@ -1,0 +1,31 @@
+id,type,text1,text2,text3,text4,text5,notes
+module_blocker2bsilver,SHIP,"This module was produced with a pristine exterior, unpainted and unmarked.
+
+An armored spar used to protect the flank of a station's primary batteries, this defense element is constructed of modular nanoforged components mounted on a tough yet relatively flexible structural lattice. Station armor is designed to find an ideal compromise between hardness, deflection, impact absorption, and heat dispersion across a wide range of combat scenarios, and as a rule permits for more generous mass allowance than could be reasonably mounted on a starship.",,,,,
+module_midline_supportsilver,SHIP,"This module was produced with a pristine exterior, unpainted and unmarked.
+
+A fighter support station module designed to enhance a station's local volume power-projection by mounting multiple fighter bays and missile launch points. This is a relatively soft target which nonetheless includes respectable point defense and armored hangars. A munitions depot, specialized on-site forges, and an isolated combat power system are situated on the inward-face.",,,,,
+module_midline_bastionsilver,SHIP,"This module was produced with a pristine exterior, unpainted and unmarked.
+
+A missile support bastion may be mounted on larger battlestations and star fortresses to enhance defense. This unit is designed to support other, direct firepower-focused modules by maintaining pressure and exploiting missile strike opportunities. A respectable point defense array discourages strike fighters while heavy armor allows for uninterrupted operation under heavy bombardment. ",,,,,
+module_midline_broadsidesilver,SHIP,"This module was produced with a pristine exterior, unpainted and unmarked.
+
+A very heavy station defense broadside module, this component alone demonstrates firepower comparable to any two standard line battleships. The combined mounting station segment - including this and counterweight defense and armor modules - is generally operated at a higher than usual rate of rotation to permit rapid on-target/recovery cycle.",,,,,
+ravelinsilver,SHIP,"This drone was produced with a pristine exterior, unpainted and unmarked.
+
+The Ravelin is a heavy station defense drone focused on support fire and point defense. Because it requires no crew, travel drive, or any kind of independent command core, the Ravelin can punch well above its weight class in combat.",,,,,
+station1_midlinesilver,SHIP,"This station was produced with a pristine exterior, unpainted and unmarked.
+
+A midline-model orbital station featuring a heavy broadside and rapid axial rotation. This platform hosts shipyards, habitats, factories, and large stockpiles of weapons and supplies allowing projection of military and industrial power throughout the local orbital volume.",,,,,
+station2_midlinesilver,SHIP,"This station was produced with a pristine exterior, unpainted and unmarked.
+
+A large midline-model battlestation augmented with missile support modules in addition to a heavy broadside and rapid axial rotation. This platform hosts shipyards, habitats, factories, and large stockpiles of weapons and supplies allowing projection of military and industrial power throughout the local orbital volume.",,,,,
+station3_midlinesilver,SHIP,"This station was produced with a pristine exterior, unpainted and unmarked.
+
+An enormous star fortress, the pinnacle of contemporary zero-G construction in the Persean Sector, which can host shipyards, habitats, factories, and large stockpiles of weapons and supplies. These platforms project military and industrial power throughout their local orbital volume.",,,,,
+thunder_silver,SHIP,"This ship was produced with a pristine exterior, unpainted and unmarked.
+
+ Extremely fast, well-armed, and with a long engagement range, the Thunder's strength lies in enabling a carrier to rapidly project force at the desired location. Not as damaging as a bomber or as tough as a heavy fighter, it will falter if forced into a prolonged engagement.",,,,,
+gladius_silver,SHIP,"This ship was produced with a pristine exterior, unpainted and unmarked.
+
+ Fast, deadly and well-armored, the Gladius excels at improving both the firepower and survivability of interceptor groups. However, when facing durable opponents, the small number of craft in a wing begins to tell.",,,,,
