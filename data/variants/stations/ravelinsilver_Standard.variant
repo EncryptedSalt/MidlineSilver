@@ -2,7 +2,7 @@
     "displayName": "Standard",
     "fluxCapacitors": 10,
     "fluxVents": 10,
-    "hullId": "ravelin",
+    "hullId": "ravelinsilver",
     "hullMods": ["armoredweapons"],
     "permaMods": [],
     "variantId": "ravelinsilver_Standard",
