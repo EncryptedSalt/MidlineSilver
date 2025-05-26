@@ -2,7 +2,8 @@
 	"baseHullId":"gladius",
 	"skinHullId":"gladius_silver",
 	"hullName":"Gladius (S)",
-	"descriptionId":"gladius_silver",
+	"descriptionId":"gladius",
+	"descriptionPrefix":"This ship was produced with a pristine exterior, unpainted and unmarked.",
 	"spriteName":"graphics/ships/fighters/silvergladius.png",
 	"removeWeaponSlots":[], 		# ids
 	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file

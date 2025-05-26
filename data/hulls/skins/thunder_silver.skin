@@ -2,7 +2,8 @@
 	"baseHullId":"thunder",
 	"skinHullId":"thunder_silver",
 	"hullName":"Thunder (S)",
-	"descriptionId":"thunder_silver",
+	"descriptionId":"thunder",
+	"descriptionPrefix":"This ship was produced with a pristine exterior, unpainted and unmarked.",
 	"spriteName":"graphics/ships/fighters/silverthunder.png",
 	"removeWeaponSlots":[], 		# ids
 	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
