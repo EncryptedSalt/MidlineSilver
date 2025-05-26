@@ -1,0 +1,35 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 8,
+    "fluxVents": 0,
+    "hullId": "heron_silver",
+    "hullMods": [
+        "expanded_deck_crew",
+        "missleracks"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "heronSilver_Attack1",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "pdburst",
+                "WS 004": "pdburst",
+                "WS 009": "pdlaser",
+                "WS 010": "pdlaser"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS 005": "gazerpod"}
+        }
+    ],
+    "wings": [
+        "silver_thunder_wing",
+        "silver_thunder_wing",
+        "silver_thunder_wing"
+    ]
+}
